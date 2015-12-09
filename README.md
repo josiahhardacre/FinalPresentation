@@ -1,2 +1,2 @@
-# FinalPresentation
-Fork this repository and add any artifacts from your group's presentation.
+# Final Presentation
+Fork this repository and add any artifacts from your group's presentation. Each presentation should be targeted between 10 - 15 minutes.  I will be asking questions at the end of your time so be prepared for that.  There is a Word Doc file that contains the grading rubric.  
